@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\Multiplication\Multiplication\obj\Debug\Multiplication.pdb
